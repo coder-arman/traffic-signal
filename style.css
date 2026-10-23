@@ -1,0 +1,33 @@
+#traficlight {
+    height: 350px;
+    width: 150px;
+    background-color: black;
+    border-radius: 25px;
+
+    
+}
+
+#red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin: 25px 30px 15px 25px ;
+}
+#green {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50px;
+    margin: 25px 30px 15px 25px ;
+
+}
+#yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px;
+    margin: 25px 30px 15px 25px ;
+
+}
+    
